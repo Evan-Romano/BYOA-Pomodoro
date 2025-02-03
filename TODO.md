@@ -1,0 +1,1 @@
+- [ ] Add a sound when the timer ends
